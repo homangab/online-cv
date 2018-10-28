@@ -79,44 +79,61 @@ experiences:
       time: April 2018 - Sep 2018
       company: Mila, Montreal
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-
-          - Bullet point
-          - Bullet point 
+         I was fortunate to have been advised by Prof Yoshua and Prof Liam Paull 
+         for my project in Mila which focused on designing a sim-to-real transfer 
+         framework for the task of robotic navigation. Our model consists of a planner,
+         which given an initial image and a goal image, computes a plan by gradient descent. 
+         The planner is first trained through expert trajectories in simulation followed by 
+         an adversarial domain transfer of the encoder by the use of unlabelled images from
+         simulation and the real setup. Finally, using very few expert demonstrations in the
+         real setup, we showed successful performance on real world navigation tasks. The draft
+         of the paper originating out of this work has been submitted to ICRA 2019 and is
+         currently under review. 
+          
 
     - role: Visiting Researcher
       time: Nov 2017 - Jan 2018
       company: NUS, Singapore
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        In Prof Brian's lab, I worked at the intersection of machine learning and HCI through the two projects
+        described below
+        
+          -  The first involved designing an Algorithm for recommendation systems. Based on recent 
+          developments in Deep Generative Models for learning effective latent representations and 
+          the advancements in stable training of Gated Recurrent Unit based Recurrent Neural Networks, 
+          I developed a Recurrent Generative Adversarial Framework for time-series recommendation. 
+          The algorithm comprises of a Generative Adversarial Network that uses a GRU-RNN each for
+          the generator and the discriminator. We incorporated notions from HCI like the fact that some
+          users have eclectic choices while others have a more habitual preference trend in the design 
+          of the GRU cells for the generator and the discriminator. The research paper originating out 
+          of this work has been published in proceedings of the 12th ACM Conference on Recommender Systems. 
 
-          - Bullet point
-          - Bullet point
+          - My second project in Prof Brian's group at NUS involved designing an algorithm for classifying
+           the healthiness of drinks. I worked remotely for this project and closely collaborated with Prof Brian's postdoc 
+           Dr. Homin Park. We designed different auxiliary tasks like drink logo detection, drink container properties and drink type 
+           classification to aid in the primary tasks of sugar level detection and alcohol level detection and experimented 
+           with several Multi-Task Learning based Deep Neural Net architectures. We also curated a dataset of drink images 
+           and the corresponding labels for auxiliary tasks. The draft of the paper originating out of this work is currently under
+           review at a double-blind peer-reviewed conference. 
 
     - role: Undergraduate Researcher
       time: Dec 2016 - Present
       company: IIT Kanpur
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        I've had an enriching research experience at IIT Kanpur so far, working under the guidance of Prof Nisheeth Srivastava and Prof 
+        Piyush Rai. The two strands of research I have been a part of are described below
 
-          - Bullet point
-          - Bullet point
+          - My work with Prof Nisheeth seeks to understand how subtle changes in the user-interface of the new tab page 
+            can cause significant implications in the diversity of information sources visited in the internet. To this end, I designed a 
+            web-extension that alters the default new-tab page of the web browser by displaying website recommendations under different schemes, 
+            namely the most visited sites, the least visited sites, the default high frecency based sites and a blank UI with no websites.
+            We convenience sampled around 100 participants and asked them to use our web-extension for two months. Based on detailed analysis
+            of the browsing logs collected from those participants, we observed that the passive website recommendations embedded in the new tab displays 
+            of browsers (that recommend based on frecency) inhibit 
+          - My work with Prof Piyush focuses on developing a generative zero-shot learning framework for computer vision tasks. Our algorithm 
+            uses a simple mixture of gaussians model to learn the class conditional distributions of the classes unseen during training. After 
+            pre-training, we further reduce domain shift between the training and test distributions by adversarial domain adaptation. 
+            
 
 projects:
     title: Projects
