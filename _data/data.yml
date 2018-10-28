@@ -44,33 +44,16 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: About Me
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      Hi! I am a senior undergraduate in the Department of Computer Science and Engineering at IIT Kanpur. I am engaged in the quest for Artificial General Intelligence. 
 
-      Second paragraph if required.
+      I am fortunate to have been advised by fantastic researchers over the course of my undergraduate studies. Most recently, I have worked under the guidance of Prof [Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/) and [Prof Liam Paull](http://liampaull.ca/) at Mila, Montreal during the summers of 2018. My work in Mila focused on the problem of sim-to-real transfer of deep learning based planning algorithms in robotic navigation. Prior to this, I spent a wonderful winter at NUS, Singapore in Prof Brian Lim's lab. I continued collaborating remotely and successfully completed two projects on Recommendation Systems and Multi-Task Learning respectively. In IIT Kanpur, I work with Prof Nisheeth Srivastava on Human-Computer Interaction and with Prof Piyush Rai on developing Generative Zero Shot Learning algorithms.   
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point 
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: BTech in Computer Science and Engineering
+      university: IIT Kanpur, India
+      time: 2015-2019
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
