@@ -25,22 +25,22 @@ sidebar:
 
     languages:
       - idiom: English
+        level: Professional
+
+      - idiom: Hindi
+        level: Professional
+
+      - idiom: Assamese
         level: Native
-
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
         
     interests:
-      - item: Climbing
+      - item: Painting
         link:
 
-      - item: Snowboarding
+      - item: Playing Chess
         link:
 
-      - item: Cooking
+      - item: Dreaming
         link:
 
 career-profile:
@@ -75,9 +75,9 @@ education:
           - Bullet point 
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Visiting Researcher
+      time: April 2018 - Sep 2018
+      company: Mila, Montreal
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -92,9 +92,9 @@ experiences:
           - Bullet point
           - Bullet point 
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Visiting Researcher
+      time: Nov 2017 - Jan 2018
+      company: NUS, Singapore
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -105,9 +105,9 @@ experiences:
           - Bullet point
           - Bullet point
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Undergraduate Researcher
+      time: Dec 2016 - Present
+      company: IIT Kanpur
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
