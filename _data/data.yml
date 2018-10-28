@@ -7,8 +7,8 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Homanga Bharadhwaj
+    tagline: Undergraduate AI Researcher
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -46,9 +46,19 @@ sidebar:
 career-profile:
     title: About Me
     summary: |
-      Hi! I am a senior undergraduate in the Department of Computer Science and Engineering at IIT Kanpur. I am engaged in the quest for Artificial General Intelligence. 
+      Hi! I am a senior undergraduate in the [Department of Computer
+      Science and Engineering](https://www.cse.iitk.ac.in/) at [IIT Kanpur](https://iitk.ac.in/), India. I am engaged in the
+      quest for Artificial General Intelligence. 
 
-      I am fortunate to have been advised by fantastic researchers over the course of my undergraduate studies. Most recently, I have worked under the guidance of Prof [Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/) and [Prof Liam Paull](http://liampaull.ca/) at Mila, Montreal during the summers of 2018. My work in Mila focused on the problem of sim-to-real transfer of deep learning based planning algorithms in robotic navigation. Prior to this, I spent a wonderful winter at NUS, Singapore in Prof Brian Lim's lab. I continued collaborating remotely and successfully completed two projects on Recommendation Systems and Multi-Task Learning respectively. In IIT Kanpur, I work with Prof Nisheeth Srivastava on Human-Computer Interaction and with Prof Piyush Rai on developing Generative Zero Shot Learning algorithms.   
+      I am fortunate to have been advised by fantastic researchers 
+      over the course of my undergraduate studies. Most recently,
+      I have worked under the guidance of Prof [Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/) and 
+      Prof  [Liam Paull](http://liampaull.ca/) at [Mila](https://mila.quebec/en/), Montreal during the summers of 2018. 
+      My work in [Mila](https://mila.quebec/en/) focused on the problem of sim-to-real transfer of deep learning based planning algorithms 
+      in robotic navigation. Prior to this, I spent a wonderful winter at [NUS](http://nus.edu.sg/), Singapore in Prof [Brian Lim](http://www.brianlim.net/)'s lab. 
+      I continued collaborating remotely and successfully completed two projects on Recommendation Systems and 
+      Multi-Task Learning respectively. In IIT Kanpur, I work with Prof [Nisheeth Srivastava](https://scholar.google.com/citations?user=2dgYRikAAAAJ&hl=en) on Human-Computer Interaction
+      and with Prof [Piyush Rai](https://www.cse.iitk.ac.in/users/piyush/) on developing Generative Zero Shot Learning algorithms.   
 
 education:
     - degree: BTech in Computer Science and Engineering
