@@ -134,7 +134,7 @@ experiences:
             uses a simple mixture of gaussians model to learn the class conditional distributions of the classes unseen during training. After 
             pre-training, we further reduce domain shift between the training and test distributions by adversarial domain adaptation. 
             
-
+<!--- 
 projects:
     title: Projects
     intro: >
@@ -162,48 +162,57 @@ projects:
       - title: Delta
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
+just --->
 publications:
-    title: Publications
+    title: Selected Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Here is a selected list of my publications which have been published / are in press / under single-blind review. For respecting anonymity, I have not linked drafts under double-blind peer review.
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: A Data-Efficient Framework for Training and Sim-to-Real Transfer of Navigation Policies [pdf](https://arxiv.org/abs/1810.04871)
+        authors: Homanga Bharadhwaj, Zihan Wang, Yoshua Bengio, Liam Paull
+        conference: Under Review in ICRA 2019
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: RecGAN: Recurrent Generative Adversarial Networks for Recommendation Systems [pdf](https://dl.acm.org/citation.cfm?id=3240383)
+        authors: Homanga Bharadhwaj, Homin Park, Brian Y. Lim
+        conference: In Proceeding of the 12th ACM Conference on Recommender Systems (RecSys 2018)
 
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Layer-wise Relevance Propagation for Recommendation Systems [pdf](https://ears2018.github.io/ears18-bharadhwaj.pdf)
+        authors: Homanga Bharadhwaj
+        conference: Presented at the EARS Workshop in ACM SIGIR 2018
+        
+      - title: Explanations for Temporal Recommendations [pdf](https://link.springer.com/content/pdf/10.1007%2Fs13218-018-0560-x.pdf)
+        authors: Homanga Bharadhwaj, Shruti Joshi
+        conference: Presented at the XAI Workshop in IJCAI/ECAI 2018 and published in KI - Künstliche Intelligenz
+        
+      - title: Layer-wise Relevance Propagation for Explainable Deep Learning Based Speech Recognition (pdf - to be updated after camera-ready deadline)
+        authors: Homanga Bharadhwaj
+        conference: Accepted for publication in IEEE ISSPIT 2018        
+        
+        
+
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python 
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Pytorch & Tensorflow
         level: 98%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: HTML5, CSS & PHP
         level: 95%
-
-      - name: Ruby on Rails
+        
+      - name: Latex & Inkscape
+        level: 95%
+        
+      - name: Javascript 
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Angular
+        level: 80%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
