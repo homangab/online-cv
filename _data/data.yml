@@ -141,25 +141,25 @@ publications:
       Here is a selected list of my publications which have been published / are in press / under single-blind review. For respecting anonymity, I have not linked drafts under double-blind peer review.
 
     papers:
-      - title: A Data-Efficient Framework for Training and Sim-to-Real Transfer of Navigation Policies 
+      - title: "A Data-Efficient Framework for Training and Sim-to-Real Transfer of Navigation Policies" 
         authors: Homanga Bharadhwaj, Zihan Wang, Yoshua Bengio, Liam Paull
-        conference: Under Review in ICRA 2019
+        conference: "Under Review in ICRA 2019"
 
       - title: RecGAN: Recurrent Generative Adversarial Networks for Recommendation Systems 
         authors: Homanga Bharadhwaj, Homin Park, Brian Y. Lim
-        conference: In Proceeding of the 12th ACM Conference on Recommender Systems (RecSys 2018)
+        conference: "In Proceeding of the 12th ACM Conference on Recommender Systems (RecSys 2018)"
 
       - title: Layer-wise Relevance Propagation for Recommendation Systems 
         authors: Homanga Bharadhwaj
-        conference: Presented at the EARS Workshop in ACM SIGIR 2018
+        conference: "Presented at the EARS Workshop in ACM SIGIR 2018"
         
       - title: Explanations for Temporal Recommendations 
         authors: Homanga Bharadhwaj, Shruti Joshi
-        conference: Presented at the XAI Workshop in IJCAI/ECAI 2018 and published in KI - Künstliche Intelligenz
+        conference: "Presented at the XAI Workshop in IJCAI/ECAI 2018 and published in KI - Künstliche Intelligenz"
         
       - title: Layer-wise Relevance Propagation for Explainable Deep Learning Based Speech Recognition 
         authors: Homanga Bharadhwaj
-        conference: Accepted for publication in IEEE ISSPIT 2018        
+        conference: "Accepted for publication in IEEE ISSPIT 2018"        
         
         
 
@@ -174,7 +174,7 @@ skills:
       - name: Pytorch & Tensorflow
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: HTML5 , CSS & PHP
         level: 95%
         
       - name: Latex & Inkscape
