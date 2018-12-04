@@ -127,10 +127,13 @@ experiences:
             namely the most visited sites, the least visited sites, the default high frecency based sites and a blank UI with no websites.
             We convenience sampled around 100 participants and asked them to use our web-extension for two months. Based on detailed analysis
             of the browsing logs collected from those participants, we observed that the passive website recommendations embedded in the new tab displays 
-            of browsers (that recommend based on frecency) inhibit 
-          - My work with Prof Piyush focuses on developing a generative zero-shot learning framework for computer vision tasks. Our algorithm 
-            uses a simple mixture of gaussians model to learn the class conditional distributions of the classes unseen during training. After 
-            pre-training, we further reduce domain shift between the training and test distributions by adversarial domain adaptation. 
+            of browsers (that recommend based on frecency) inhibit peoples' propensity to visit diverse information sources on the internet. The 
+            draft of the paper from this project is currently under double-blind peer review. 
+          - My work with Prof Piyush focuses on developing a generative zero-shot learning framework for computer vision tasks. Our algorithm
+            uses a simple exponential family based generative model for inferring the class conditional distributions of the unseen classes. We use
+            use neural networks to parametrize the model and learn the weights of the networks through end-to-end training. In addition, we leverage the 
+            generative model to incorporate adversarial domain adaptation for minimizing the domain gap between the true distribution of the unseen classes
+            and the corresponding generated distribution. The draft of the paper originating out of this work is currently under double-bind peer review.
  
 
 publications:
