@@ -149,7 +149,7 @@ publications:
 
       - title: "RecGAN: Recurrent Generative Adversarial Networks for Recommendation Systems" 
         authors: Homanga Bharadhwaj, Homin Park, Brian Y. Lim
-        conference: "In Proceeding of the 12th ACM Conference on Recommender Systems (RecSys 2018)" [pdf](recgan.pdf) 
+        conference: "In Proceeding of the 12th ACM Conference on Recommender Systems (RecSys 2018)"  
 
       - title: "Layer-wise Relevance Propagation for Recommendation Systems" 
         authors: Homanga Bharadhwaj
