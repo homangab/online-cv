@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Homanga Bharadhwaj
-    tagline: Undergraduate AI Researcher
+    tagline: Undergraduate AI Researcher and Painter
     avatar: homanga.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -33,7 +33,7 @@ sidebar:
         
     interests:
       - item: Painting
-        link:
+        link: https://drive.google.com/drive/folders/1FhIxxfnaQlrcKf_eLWrwdE27hNQykkno?usp=sharing
 
       - item: Playing Chess
         link:
