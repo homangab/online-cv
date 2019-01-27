@@ -149,7 +149,7 @@ publications:
     papers:
       - title: "A Data-Efficient Framework for Training and Sim-to-Real Transfer of Navigation Policies" 
         authors: Homanga Bharadhwaj, Zihan Wang, Yoshua Bengio, Liam Paull
-        conference: "Under Review in ICRA 2019"
+        conference: "In Proceedings of the IEEE International Conference on Robotics and Automation (ICRA 2019 - to appear) "
 
       - title: "RecGAN: Recurrent Generative Adversarial Networks for Recommendation Systems" 
         authors: Homanga Bharadhwaj, Homin Park, Brian Y. Lim
@@ -165,7 +165,7 @@ publications:
         
       - title: "Layer-wise Relevance Propagation for Explainable Deep Learning Based Speech Recognition" 
         authors: Homanga Bharadhwaj
-        conference: "Accepted for publication in IEEE ISSPIT 2018"        
+        conference: "In Proceedings of the IEEE Symposium on Signal Processing and Information Technology (ISSPIT 2018 - to appear)"        
         
         
 
