@@ -88,8 +88,7 @@ experiences:
          an adversarial domain transfer of the encoder by the use of unlabelled images from
          simulation and the real setup. Finally, using very few expert demonstrations in the
          real setup, we showed successful performance on real world navigation tasks. The draft
-         of the paper originating out of this work has been submitted to ICRA 2019 and is
-         currently under review. 
+         of the paper originating out of this work has been accepted for publication in ICRA 2019 ([pdf](https://arxiv.org/pdf/1810.04871.pdf)). 
           
 
     - role: Visiting Researcher
@@ -107,15 +106,15 @@ experiences:
           the generator and the discriminator. We incorporated notions from HCI like the fact that some
           users have eclectic choices while others have a more habitual preference trend in the design 
           of the GRU cells for the generator and the discriminator. The research paper originating out 
-          of this work has been published in proceedings of the 12th ACM Conference on Recommender Systems. 
+          of this work has been published in proceedings of the 12th ACM Conference on Recommender Systems ([pdf](https://www.researchgate.net/profile/Homanga_Bharadhwaj/publication/327945924_RecGAN_recurrent_generative_adversarial_networks_for_recommendation_systems/links/5bb60dc0299bf1a7f8b6c421/RecGAN-recurrent-generative-adversarial-networks-for-recommendation-systems.pdf)). 
 
           - My second project in Prof Brian's group at NUS involved designing an algorithm for classifying
            the healthiness of drinks. I worked remotely for this project and closely collaborated with Prof Brian's postdoc 
            Dr. Homin Park. We designed different auxiliary tasks like drink logo detection, drink container properties and drink type 
            classification to aid in the primary tasks of sugar level detection and alcohol level detection and experimented 
            with several Multi-Task Learning based Deep Neural Net architectures. We also curated a dataset of drink images 
-           and the corresponding labels for auxiliary tasks. The draft of the paper originating out of this work is currently under
-           review at a double-blind peer-reviewed conference. 
+           and the corresponding labels for auxiliary tasks. The draft of the paper originating out of this work has been accepted
+           for publication in IJCNN 2019 ([pdf](https://drive.google.com/file/d/1iJ_rmjjhpcpBYc09O5KlpFwV9pd8bnmL/view?usp=sharing)). 
 
     - role: Undergraduate Researcher
       time: Dec 2016 - Present
@@ -149,7 +148,8 @@ publications:
       - title: "A Data-Efficient Framework for Training and Sim-to-Real Transfer of Navigation Policies" 
         authors: Homanga Bharadhwaj, Zihan Wang, Yoshua Bengio, Liam Paull 
         conference: "In Proceedings of the IEEE International Conference on Robotics and Automation (ICRA 2019 - to appear) "
-        link: [pdf](https://arxiv.org/pdf/1810.04871.pdf)
+        link: | 
+          [pdf](https://arxiv.org/pdf/1810.04871.pdf)
         
       - title: "RecGAN: Recurrent Generative Adversarial Networks for Recommendation Systems" 
         authors: Homanga Bharadhwaj, Homin Park, Brian Y. Lim
