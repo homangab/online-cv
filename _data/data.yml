@@ -153,7 +153,23 @@ publications:
       - title: "RecGAN: Recurrent Generative Adversarial Networks for Recommendation Systems" 
         authors: Homanga Bharadhwaj, Homin Park, Brian Y. Lim
         conference: "In Proceeding of the 12th ACM Conference on Recommender Systems (RecSys 2018)"  
-
+      
+      - title: "Meta-Learning for User Cold-Start Recommendation" 
+        authors: Homanga Bharadhwaj
+        conference: "In Proceedings of the International Joint Conference on Neural Networks (IJCNN 2019 - to appear)"        
+      
+      - title: "A Hierarchical Multi-Task Learning Framework for Healthy Drink Recognition" 
+        authors: Homin Park, Homanga Bharadhwaj, Brian Y. Lim
+        conference: "In Proceedings of the International Joint Conference on Neural Networks (IJCNN 2019 - to appear)"        
+      
+      - title: "A Synchrophasor Assisted Optimal Features based Scheme for Fault Detection and Classification" 
+        authors: Homin Park, Homanga Bharadhwaj, Brian Y. Lim
+        conference: "In Proceedings of the International Joint Conference on Neural Networks (IJCNN 2019 - to appear)"        
+      
+      - title: "Explainable Recommender System that Maximizes Exploration" 
+        authors: Homanga Bharadhwaj
+        conference: "In Proceedings of the 24th International Conference on Intelligent User Interfaces Companion (ACM IUI'18)"  
+        
       - title: "Layer-wise Relevance Propagation for Recommendation Systems" 
         authors: Homanga Bharadhwaj
         conference: "Presented at the EARS Workshop in ACM SIGIR 2018"
@@ -164,7 +180,9 @@ publications:
         
       - title: "Layer-wise Relevance Propagation for Explainable Deep Learning Based Speech Recognition" 
         authors: Homanga Bharadhwaj
-        conference: "In Proceedings of the IEEE Symposium on Signal Processing and Information Technology (ISSPIT 2018 - to appear)"        
+        conference: "In Proceedings of the IEEE Symposium on Signal Processing and Information Technology (ISSPIT 2018)"        
+        link: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8642691
+      
         
         
 
