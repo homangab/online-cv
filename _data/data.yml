@@ -148,7 +148,7 @@ publications:
     papers:
       - title: "A Data-Efficient Framework for Training and Sim-to-Real Transfer of Navigation Policies" 
         authors: Homanga Bharadhwaj, Zihan Wang, Yoshua Bengio, Liam Paull 
-        conference: "In Proceedings of the IEEE International Conference on Robotics and Automation (ICRA 2019 - to appear) " "[pdf](https://arxiv.org/pdf/1810.04871.pdf)"
+        conference: "In Proceedings of the IEEE International Conference on Robotics and Automation (ICRA 2019 - to appear) [pdf](https://arxiv.org/pdf/1810.04871.pdf)"
 
       - title: "RecGAN: Recurrent Generative Adversarial Networks for Recommendation Systems" 
         authors: Homanga Bharadhwaj, Homin Park, Brian Y. Lim
