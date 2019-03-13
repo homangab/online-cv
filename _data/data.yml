@@ -146,7 +146,7 @@ publications:
       For respecting anonymity, I have not linked drafts under double-blind peer review.
 
     papers:
-      - title: "A Data-Efficient Framework for Training and Sim-to-Real Transfer of Navigation Policies" 
+      - title: "A Data-Efficient Framework for Training and Sim-to-Real Transfer of Navigation Policies" [pdf](https://arxiv.org/pdf/1810.04871.pdf)
         authors: Homanga Bharadhwaj, Zihan Wang, Yoshua Bengio, Liam Paull
         conference: "In Proceedings of the IEEE International Conference on Robotics and Automation (ICRA 2019 - to appear) "
 
@@ -181,7 +181,7 @@ publications:
       - title: "Layer-wise Relevance Propagation for Explainable Deep Learning Based Speech Recognition" 
         authors: Homanga Bharadhwaj
         conference: "In Proceedings of the IEEE Symposium on Signal Processing and Information Technology (ISSPIT 2018)"        
-        link: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8642691
+       
       
         
         
